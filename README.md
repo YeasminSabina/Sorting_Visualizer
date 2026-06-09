@@ -1,0 +1,3 @@
+This is a program to visualize 6 common sorting algorithms: Bubble Sort, Merge Sort, Selection Sort, Insertion Sort, Quick Sort and Heap Sort.
+
+The GUI is created using Python module Tkinter. The program takes the max and min size of the array from the user and generates a random list of 100 numbers within the specified range and allows the user to choose the type of sorting algorithm they want to visualize.
